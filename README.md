@@ -1,16 +1,20 @@
-## Hi there 👋
+Estudante de Engenharia de Software na Universidade Positivo e formado como Técnico em Desenvolvimento de Sistemas pelo SENAI-PR.
 
-<!--
-**Miguel3001m/Miguel3001m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tenho interesse em Desenvolvimento de Software, buscando transformar conhecimentos em soluções práticas e continuar evoluindo tecnicamente.
 
-Here are some ideas to get you started:
+Sobre mim: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante da área de tecnologia e estou construindo minha carreira em desenvolvimento de software. Tenho experiência acadêmica com criação de APIs, desenvolvimento de sistemas e utilização de ferramentas como GitHub e VS Code.
+
+Gosto de aprender novas tecnologias, resolver problemas e transformar ideias em projetos. Também valorizo organização, trabalho em equipe, comunicação e aprendizado contínuo.
+
+🛠️ Tecnologias e conhecimentos
+Python
+JavaScript
+HTML & CSS
+APIs
+Git & GitHub
+VS Code
+MySQL
+Lógica de programação
+Desenvolvimento de sistemas
